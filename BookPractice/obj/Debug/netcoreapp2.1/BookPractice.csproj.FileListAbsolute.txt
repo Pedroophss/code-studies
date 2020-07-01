@@ -1,0 +1,17 @@
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\bin\Debug\netcoreapp2.1\BookPractice.deps.json
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\bin\Debug\netcoreapp2.1\BookPractice.dll
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\obj\Debug\netcoreapp2.1\BookPractice.csproj.CoreCompileInputs.cache
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\obj\Debug\netcoreapp2.1\BookPractice.AssemblyInfoInputs.cache
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\obj\Debug\netcoreapp2.1\BookPractice.AssemblyInfo.cs
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\bin\Debug\netcoreapp2.1\BookPractice.runtimeconfig.json
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\bin\Debug\netcoreapp2.1\BookPractice.runtimeconfig.dev.json
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\obj\Debug\netcoreapp2.1\BookPractice.csprojAssemblyReference.cache
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\bin\Debug\netcoreapp2.1\BookPractice.pdb
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\obj\Debug\netcoreapp2.1\BookPractice.dll
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\obj\Debug\netcoreapp2.1\BookPractice.pdb
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\bin\Debug\netcoreapp2.1\DataStructs.dll
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\bin\Debug\netcoreapp2.1\DataStructs.pdb
+C:\MySources\CrackingCodingInterview\DataStructs\BookPractice\obj\Debug\netcoreapp2.1\BookPractice.csproj.CopyComplete

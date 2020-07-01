@@ -1,0 +1,17 @@
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.Test.deps.json
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.Test.runtimeconfig.json
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.Test.runtimeconfig.dev.json
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.Test.dll
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.Test.pdb
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.dll
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.pdb
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.csprojAssemblyReference.cache
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.csproj.CoreCompileInputs.cache
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.AssemblyInfoInputs.cache
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.AssemblyInfo.cs
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.csproj.CopyComplete
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.dll
+C:\MySources\CrackingCodingInterview\DataStructs\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.pdb

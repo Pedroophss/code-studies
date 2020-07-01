@@ -1,0 +1,11 @@
+C:\MySources\CrackingCodingInterview\DataStructs\CovidCourse\obj\Debug\netcoreapp2.1\CovidCourse.csprojAssemblyReference.cache
+C:\MySources\CrackingCodingInterview\DataStructs\CovidCourse\obj\Debug\netcoreapp2.1\CovidCourse.csproj.CoreCompileInputs.cache
+C:\MySources\CrackingCodingInterview\DataStructs\CovidCourse\obj\Debug\netcoreapp2.1\CovidCourse.AssemblyInfoInputs.cache
+C:\MySources\CrackingCodingInterview\DataStructs\CovidCourse\obj\Debug\netcoreapp2.1\CovidCourse.AssemblyInfo.cs
+C:\MySources\CrackingCodingInterview\DataStructs\CovidCourse\bin\Debug\netcoreapp2.1\CovidCourse.deps.json
+C:\MySources\CrackingCodingInterview\DataStructs\CovidCourse\bin\Debug\netcoreapp2.1\CovidCourse.runtimeconfig.json
+C:\MySources\CrackingCodingInterview\DataStructs\CovidCourse\bin\Debug\netcoreapp2.1\CovidCourse.runtimeconfig.dev.json
+C:\MySources\CrackingCodingInterview\DataStructs\CovidCourse\bin\Debug\netcoreapp2.1\CovidCourse.dll
+C:\MySources\CrackingCodingInterview\DataStructs\CovidCourse\bin\Debug\netcoreapp2.1\CovidCourse.pdb
+C:\MySources\CrackingCodingInterview\DataStructs\CovidCourse\obj\Debug\netcoreapp2.1\CovidCourse.dll
+C:\MySources\CrackingCodingInterview\DataStructs\CovidCourse\obj\Debug\netcoreapp2.1\CovidCourse.pdb

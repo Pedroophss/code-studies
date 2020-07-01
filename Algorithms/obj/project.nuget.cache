@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9J1G8Rxq7/FZr1j3SqXv7K6suYDit0plSkgKXgtG37R80FTIZMbBzUlYIV00jC9ZPPHWQzPIyNH0NbNyCWtcTg==",
+  "success": true,
+  "projectFilePath": "C:\\MySources\\CrackingCodingInterview\\DataStructs\\Algorithms\\Algorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

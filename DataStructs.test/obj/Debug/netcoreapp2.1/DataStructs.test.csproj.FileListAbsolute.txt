@@ -1,0 +1,17 @@
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\bin\Debug\netcoreapp2.1\DataStructs.test.deps.json
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\bin\Debug\netcoreapp2.1\DataStructs.test.runtimeconfig.json
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\bin\Debug\netcoreapp2.1\DataStructs.test.runtimeconfig.dev.json
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\bin\Debug\netcoreapp2.1\DataStructs.test.dll
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\bin\Debug\netcoreapp2.1\DataStructs.test.pdb
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\bin\Debug\netcoreapp2.1\DataStructs.dll
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\bin\Debug\netcoreapp2.1\DataStructs.pdb
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\obj\Debug\netcoreapp2.1\DataStructs.test.csprojAssemblyReference.cache
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\obj\Debug\netcoreapp2.1\DataStructs.test.csproj.CoreCompileInputs.cache
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\obj\Debug\netcoreapp2.1\DataStructs.test.AssemblyInfoInputs.cache
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\obj\Debug\netcoreapp2.1\DataStructs.test.AssemblyInfo.cs
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\obj\Debug\netcoreapp2.1\DataStructs.test.csproj.CopyComplete
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\obj\Debug\netcoreapp2.1\DataStructs.test.dll
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs.test\obj\Debug\netcoreapp2.1\DataStructs.test.pdb

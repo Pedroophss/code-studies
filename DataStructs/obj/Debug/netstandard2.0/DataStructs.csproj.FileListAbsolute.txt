@@ -1,0 +1,9 @@
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs\bin\Debug\netstandard2.0\DataStructs.deps.json
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs\bin\Debug\netstandard2.0\DataStructs.dll
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs\obj\Debug\netstandard2.0\DataStructs.csprojAssemblyReference.cache
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs\obj\Debug\netstandard2.0\DataStructs.csproj.CoreCompileInputs.cache
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs\obj\Debug\netstandard2.0\DataStructs.AssemblyInfoInputs.cache
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs\obj\Debug\netstandard2.0\DataStructs.AssemblyInfo.cs
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs\bin\Debug\netstandard2.0\DataStructs.pdb
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs\obj\Debug\netstandard2.0\DataStructs.dll
+C:\MySources\CrackingCodingInterview\DataStructs\DataStructs\obj\Debug\netstandard2.0\DataStructs.pdb
